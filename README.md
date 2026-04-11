@@ -1,276 +1,105 @@
-<div align="center">
+<!--
+  ______ _     _     _     _    _      _       _     
+ |  ____(_)   | |   | |   | |  | |    (_)     | |    
+ | |__   _ ___| |__ | | __| | _| |_ __ _  __ _| |___ 
+ |  __| | / __| '_ \| |/ _` |/ _` | '__| |/ _` | / __|
+ | |    | \__ \ | | | | (_| | (_| | |  | | (_| | \__ \
+ |_|    |_|___/_| |_|_|\__,_|\__,_|_|  |_|\__,_|_|___/
+                                                      -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&animation=fadeIn" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rishi+Krishna+%F0%9F%91%8B;Web+Developer;Student+%F0%9F%93%96;Chill+Guy+%F0%9F%98%8E;Pianist+%F0%9F%8E%B9" alt="Typing SVG" />
+</h1>
 
-<a href="https://github.com/10rishikrishna">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=99999&pause=99999&color=58A6FF&center=true&vCenter=true&width=340&lines=Rishi" alt="Rishi" />
-</a><a href="https://github.com/10rishikrishna">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=99999&pause=99999&color=3FB950&center=true&vCenter=true&width=360&lines=Krishna" alt="Krishna" />
-</a>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Building cool stuff on the web
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<br/>
-
-<a href="https://github.com/10rishikrishna">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=700&lines=%24+node+server.js+--port+3000;%24+git+commit+-m+'feat%3A+scale+to+1M+users';%24+docker-compose+up+--build+-d;%24+SELECT+*+FROM+projects+WHERE+passion+%3D+true;%24+kubectl+apply+-f+deployment.yaml;%24+echo+'backend+developer+by+passion'" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=58a6ff&style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-3fb950?style=flat-square)
-![Backend Dev](https://img.shields.io/badge/Backend%20Developer-302b63?style=flat-square)
-![Node.js Lover](https://img.shields.io/badge/Node.js%20Lover-e3b341?style=flat-square&logoColor=black)
-![API Architect](https://img.shields.io/badge/API%20Architect-f778ba?style=flat-square)
-
-</div>
-
----
-
-## 🧑‍💻 whoami
-
-```javascript
-// rishi_krishna.config.js
-module.exports = {
-  name:              "Rishi Krishna",
-  username:          "10rishikrishna",
-  role:              "Backend Developer",
-  location:          "India 🇮🇳",
-  focus:             "Scalable APIs & Microservices",
-  stack:             ["Node.js", "React", "Express", "MongoDB", "PostgreSQL"],
-  currentlyLearning: ["System Design", "Kubernetes", "AWS"],
-  openSource:        true,
-  hireable:          true,
-  greet:             () => console.log("Hey! Let's build something awesome 🚀"),
-}
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-00F7FF?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Student-Life-FF6B6B?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chill%20Guy-Mode-4ECDC4?style=for-the-badge&logo=peace&logoColor=white" />
+</p>
 
 ---
+
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1a00?style=flat-square&logo=javascript&logoColor=e3b341)
-![TypeScript](https://img.shields.io/badge/TypeScript-001433?style=flat-square&logo=typescript&logoColor=79c0ff)
-![Python](https://img.shields.io/badge/Python-001a00?style=flat-square&logo=python&logoColor=3fb950)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=8b949e)
-![Shell](https://img.shields.io/badge/Shell-161b22?style=flat-square&logo=gnubash&logoColor=8b949e)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,react,html,css,cpp,dart,flutter&perline=8" />
+</p>
 
-### Frameworks & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-001a00?style=flat-square&logo=nodedotjs&logoColor=3fb950)
-![React](https://img.shields.io/badge/React-001933?style=flat-square&logo=react&logoColor=58a6ff)
-![Express.js](https://img.shields.io/badge/Express.js-161b22?style=flat-square&logo=express&logoColor=8b949e)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a0011?style=flat-square&logo=graphql&logoColor=f778ba)
-![WebSockets](https://img.shields.io/badge/WebSockets-001433?style=flat-square&logo=socketdotio&logoColor=58a6ff)
-
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-001a00?style=flat-square&logo=mongodb&logoColor=3fb950)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001433?style=flat-square&logo=postgresql&logoColor=79c0ff)
-![Redis](https://img.shields.io/badge/Redis-1a0000?style=flat-square&logo=redis&logoColor=f85149)
-![MySQL](https://img.shields.io/badge/MySQL-001a15?style=flat-square&logo=mysql&logoColor=3fb950)
-![Prisma](https://img.shields.io/badge/Prisma-001433?style=flat-square&logo=prisma&logoColor=79c0ff)
-![Mongoose](https://img.shields.io/badge/Mongoose-001a00?style=flat-square&logoColor=3fb950)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-001433?style=flat-square&logo=docker&logoColor=58a6ff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-001433?style=flat-square&logo=kubernetes&logoColor=79c0ff)
-![AWS](https://img.shields.io/badge/AWS-1a0e00?style=flat-square&logo=amazonaws&logoColor=f0883e)
-![Nginx](https://img.shields.io/badge/Nginx-001a00?style=flat-square&logo=nginx&logoColor=3fb950)
-![PM2](https://img.shields.io/badge/PM2-1a0000?style=flat-square&logo=pm2&logoColor=f85149)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=8b949e)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=e6edf3)
-
-### Security & Auth
-![JWT](https://img.shields.io/badge/JWT-1c1a00?style=flat-square&logo=jsonwebtokens&logoColor=e3b341)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-1a0011?style=flat-square&logo=auth0&logoColor=f778ba)
-![Helmet.js](https://img.shields.io/badge/Helmet.js-001433?style=flat-square&logoColor=79c0ff)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-1a0000?style=flat-square&logoColor=f85149)
-![CORS](https://img.shields.io/badge/CORS-1c1a00?style=flat-square&logoColor=e3b341)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
 ---
 
-## 🏗️ System Architecture
+## 📊 GitHub Analytics
 
-```
-┌─────────────┐     ┌──────────────┐     ┌──────────────┐
-│   Client    │────▶│  API Gateway │────▶│ Auth Service │
-│ React/Next  │     │ Nginx / Kong │     │  JWT/OAuth   │
-└─────────────┘     └──────────────┘     └──────────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-  ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
-  │ User Service │ │ Post Service │ │ Notif Service│
-  │ Node/Express │ │ Node/Express │ │ Node/Express │
-  └──────────────┘ └──────────────┘ └──────────────┘
-          │                │
-          ▼                ▼
-  ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
-  │   MongoDB    │ │  PostgreSQL  │ │    Redis     │
-  │  Primary DB  │ │  Relational  │ │ Cache/Session│
-  └──────────────┘ └──────────────┘ └──────────────┘
-                           │
-                  ┌─────────────────┐
-                  │  Message Queue  │
-                  │ RabbitMQ/BullMQ │
-                  └─────────────────┘
-```
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishikrishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&ring_color=00F7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikrishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikrishna&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF" />
+</p>
 
 ---
 
-## 🧠 CS Concepts & Patterns
+## 🎹 Beyond the Code
 
-| Category | Concepts |
-|---|---|
-| **Design Patterns** | MVC, Repository, Factory, Singleton, Middleware Chain, Observer, Event Emitter |
-| **API Design** | RESTful APIs, GraphQL, WebSockets, Pagination/Cursor, Rate Limiting, API Versioning |
-| **Databases** | Indexing & Sharding, ACID Transactions, Aggregation Pipeline, Query Optimization, Connection Pooling, Replication |
-| **System Design** | Microservices, Load Balancing, Horizontal Scaling, CAP Theorem, Message Queues, CDN & Caching |
-| **Security** | OAuth 2.0 / OIDC, JWT Auth Flow, SQL Injection Prevention, XSS/CSRF Protection, Encryption |
-| **DevOps** | CI/CD Pipelines, Docker Compose, K8s Pods/Services, Reverse Proxy, Zero-downtime Deploy, Health Checks |
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif?cid=790b7611p2cxh9pxkrhc8w03ixlyvrl3b7nl6mzkgamq4rjr&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80" />
+</p>
 
----
+<p align="center">
+  🎵 Pianist by passion &nbsp;|&nbsp;
+  😎 Chill Guy by nature &nbsp;|&nbsp;
+  😂 Living by the mantra:
+</p>
 
-## 📊 Language Proficiency
-
-```
-JavaScript / Node.js  ████████████████████░░  90%
-TypeScript            ████████████████░░░░░░  72%
-React / Next.js       ██████████████░░░░░░░░  65%
-Python                ███████████░░░░░░░░░░░  50%
-Shell / DevOps        █████████░░░░░░░░░░░░░  40%
-```
+> **"Don't take life too serious — you'll never get out alive"**
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=10rishikrishna&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=3fb950" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10rishikrishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=10rishikrishna&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/rish_i.7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B6B" />
+  </a>
+  <a href="https://www.youtube.com/@rishikrishna1219" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
 
 ---
 
-## 🧩 What I Build
+<!-- Animated Footer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| Project Type | Stack | Complexity | Status |
-|---|---|---|---|
-| REST API Server | Node + Express + MongoDB | ●●●●○ | Production |
-| Auth System | JWT + OAuth2 + Redis | ●●●●● | Production |
-| Real-time App | WebSockets + Node | ●●●○○ | Building |
-| Microservice Arch | Docker + K8s + RabbitMQ | ●●●●● | Learning |
-| Full Stack App | Next.js + Prisma + PG | ●●●●○ | Production |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishikrishna&label=Profile%20Views&color=00F7FF&style=flat-square" alt="profile views" />
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 
-## 🗺️ Learning Journey
-
-```
-2021 ──── JavaScript & HTML/CSS
-           └─ DOM manipulation, first web pages
-
-2022 ──── Node.js + Express + MongoDB
-           └─ First REST APIs, MVC pattern, backend fundamentals
-
-2023 ──── React + Auth + PostgreSQL + TypeScript
-           └─ Full-stack apps, JWT, OAuth, relational DBs
-
-2024 ──── Docker + Redis + System Design
-           └─ Containerization, caching strategies, scalability
-
-2025 ──▶  Kubernetes + AWS + Microservices
-           └─ Cloud infrastructure, distributed systems, K8s
-```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10rishikrishna/10rishikrishna/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10rishikrishna/10rishikrishna/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/10rishikrishna/10rishikrishna/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10rishikrishna&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&area=true&hide_border=true" />
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001433?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/10rishikrishna)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/10rishikrishna)
-[![Twitter](https://img.shields.io/badge/Twitter-001433?style=for-the-badge&logo=twitter&logoColor=58a6ff)](https://twitter.com/10rishikrishna)
-[![Email](https://img.shields.io/badge/Email-1a0c00?style=for-the-badge&logo=gmail&logoColor=f0883e)](mailto:rishikrishna@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-// built by Rishi Krishna · 10rishikrishna · keep building 🚀
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-
-</div>
-
-<!--
-SNAKE SETUP — create .github/workflows/snake.yml:
-
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+<p align="center">
+  <i>✨ Keep coding, keep chilling, keep playing those keys ✨</i>
+</p>
