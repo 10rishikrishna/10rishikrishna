@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,25:0f3057,50:1b4f72,75:0f3057,100:0a192f&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=4FC3FF&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7FDBFF&center=true&vCenter=true&width=600&height=32&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist&multiline=false" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%94%A5+Backend+Developer;%F0%9F%92%BB+Web+Developer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%93%8A+Data+Analytics;%F0%9F%8E%B9+Pianist" alt="Roles"/>
 
 </div>
 
