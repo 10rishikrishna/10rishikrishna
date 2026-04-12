@@ -1,31 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&animation=fadeIn" width="100%"/>
+<!-- HEADER — dark neon, no washed out blue-purple -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5ff,100:0d1117&height=180&section=header&text=Rishi%20Krishna&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Backend%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Data%20%E2%80%A2%20%F0%9F%8E%B9%20Pianist&descSize=15&descAlignY=62&descColor=00f5ff&animation=fadeIn" width="100%"/>
 
-<!-- NAME AS TYPING SVG — big, centered, animated -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=3000&color=00F5FF&center=true&vCenter=true&width=600&height=80&lines=Rishi+Krishna" alt="Rishi Krishna" />
+<!-- ROLES ONLY — name is already in the header above -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=bf00ff&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist" alt="Roles"/>
 
-<!-- ROLES TYPING SVG — separate, smaller -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=bf00ff&center=true&vCenter=true&width=700&height=40&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist" alt="Roles" />
+<!-- SOCIAL BADGES — tight, right below typing -->
+<a href="https://linkedin.com/in/rishikrishna10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/rish_i.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:bss10a04rishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0003-2973-0314"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 
 <br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://linkedin.com/in/rishikrishna10">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/rish_i.7">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:bss10a04rishi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://orcid.org/0009-0003-2973-0314">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
@@ -146,21 +133,13 @@ class RishiKrishna:
 
 <br/>
 
-<a href="https://linkedin.com/in/rishikrishna10">
-  <img src="https://img.shields.io/badge/LinkedIn-rishikrishna10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/rishikrishna10"><img src="https://img.shields.io/badge/LinkedIn-rishikrishna10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://instagram.com/rish_i.7">
-  <img src="https://img.shields.io/badge/Instagram-rish__i.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<a href="https://instagram.com/rish_i.7"><img src="https://img.shields.io/badge/Instagram-rish__i.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:bss10a04rishi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bss10a04rishi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:bss10a04rishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-bss10a04rishi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://orcid.org/0009-0003-2973-0314">
-  <img src="https://img.shields.io/badge/ORCID-0009--0003--2973--0314-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
+<a href="https://orcid.org/0009-0003-2973-0314"><img src="https://img.shields.io/badge/ORCID-0009--0003--2973--0314-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -168,4 +147,5 @@ class RishiKrishna:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+<!-- FOOTER — matching dark neon style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:bf00ff,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
