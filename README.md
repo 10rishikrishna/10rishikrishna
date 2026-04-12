@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1c1c1c,50:2f2f2f,75:1c1c1c,100:0d1117&height=180&section=header&animation=fadeIn" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1c1c1c,50:2f2f2f,75:1c1c1c,100:0d1117&height=180&section=header&animation=fadeIn" width="100%"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 <!-- ROLES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&height=32&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist&multiline=false" alt="Roles"/>
 
