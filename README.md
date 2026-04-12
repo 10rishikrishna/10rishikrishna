@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- NAME — hacker green typing SVG, emoji prefix -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=5000&color=39FF14&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%92%BB+Rishi+Krishna" alt="Rishi Krishna"/>
+<!-- NAME — hacker green, terminal style with peace emoji, no gap after -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=9999&color=39FF14&center=true&vCenter=true&width=520&height=70&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
-<!-- ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=35&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist" alt="Roles"/>
+<!-- ROLES — cycles, no extra height padding -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=30&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist" alt="Roles"/>
 
 <br/>
 
+<!-- BADGES — no gap, flows tight -->
 <a href="https://linkedin.com/in/rishikrishna10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/rish_i.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:bss10a04rishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0003-2973-0314"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=39FF14&style=flat"/>
 
