@@ -14,11 +14,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rish_i.7)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bss10a04rishi@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2973--0314-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2973-0314)
-
+![Profile Views](https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=39FF14&style=flat)
 </div>
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=39FF14&style=flat)
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
