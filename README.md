@@ -1,145 +1,191 @@
-<!-- ════════════════════════════════════════════════════════════
-   RISHI KRISHNA — GitHub Profile README
-   github.com/10rishikrishna | Cyberpunk Theme
-   100% GitHub-safe: image URLs only, no CSS/JS
-════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060010,30:7b00ff,70:bd00ff,100:00d4ff&height=220&section=header&text=RISHI%20KRISHNA&fontSize=50&fontColor=ffffff&fontAlignY=38&fontStyle=italic&desc=Backend%20Developer%20%7C%20Rajagiri%20SET%20%7C%20Kerala%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descColor=bd00ff&animation=twinkling" width="100%"/>
+<!-- HEADER WAVE — capsule-render is fully GitHub supported -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishi%20Krishna&fontSize=65&fontColor=00f5ff&fontAlignY=38&desc=Backend%20%7C%20Web%20Dev%20%7C%20Cybersecurity%20%7C%20Data%20Analytics%20%7C%20%F0%9F%8E%B9%20Pianist&descAlignY=60&descColor=bf00ff&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1200&color=BD00FF&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;ASP.NET+Core+%7C+C%23+%7C+Flutter+%7C+WinForms;Building+the+CIAL+Entry+Pass+System;366+Contributions+%26+counting+%F0%9F%94%A5;97%25+Commit+Rate+%7C+9+Repos;bss10a04rishi%40gmail.com" alt="Typing SVG" width="550"/>
+<!-- TYPING SVG — fully GitHub supported -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&lines=Backend+Developer+%7C+Building+Scalable+Systems;Web+Developer+%7C+Full-Stack+Craftsman;Cybersecurity+Enthusiast+%7C+Securing+the+Stack;Data+Analytics+%7C+Turning+Data+into+Insight;%F0%9F%8E%B9+Pianist+%7C+Engineer+by+Day%2C+Musician+by+Soul;366+Contributions+%7C+97%25+Commit+Rate+%7C+9+Repos" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- STAT BADGES -->
-![](https://img.shields.io/badge/Contributions-366-00d4ff?style=for-the-badge&labelColor=060010&color=00d4ff)
-![](https://img.shields.io/badge/Repos-9-bd00ff?style=for-the-badge&labelColor=060010&color=bd00ff)
-![](https://img.shields.io/badge/Commit_Rate-97%25-ff2079?style=for-the-badge&labelColor=060010&color=ff2079)
-![](https://img.shields.io/badge/Location-Kerala_🇮🇳-00ffaa?style=for-the-badge&labelColor=060010&color=00ffaa)
-![](https://img.shields.io/badge/College-Rajagiri_SET-bd00ff?style=for-the-badge&labelColor=060010&color=bd00ff)
-
-<br/>
-
-<!-- ACHIEVEMENT BADGES AS IMAGES -->
-![Pull Shark](https://img.shields.io/badge/🤠_Pull_Shark-Achievement-00d4ff?style=flat-square&labelColor=060010&color=00d4ff)
-![Starstruck](https://img.shields.io/badge/🦈_Starstruck-Achievement-bd00ff?style=flat-square&labelColor=060010&color=bd00ff)
-![YOLO](https://img.shields.io/badge/🧃_YOLO-Achievement-ff2079?style=flat-square&labelColor=060010&color=ff2079)
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishikrishna10-0d1117?style=flat-square&logo=linkedin&logoColor=00f5ff&labelColor=0d1117&color=0d1117)](https://linkedin.com/in/rishikrishna10)
+[![Instagram](https://img.shields.io/badge/Instagram-rish__i.7-0d1117?style=flat-square&logo=instagram&logoColor=bf00ff&labelColor=0d1117&color=0d1117)](https://instagram.com/rish_i.7)
+[![Email](https://img.shields.io/badge/Email-bss10a04rishi-0d1117?style=flat-square&logo=gmail&logoColor=ff2d78&labelColor=0d1117&color=0d1117)](mailto:bss10a04rishi@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2973--0314-0d1117?style=flat-square&logo=orcid&logoColor=00ff88&labelColor=0d1117&color=0d1117)](https://orcid.org/0009-0003-2973-0314)
+[![Profile Views](https://komarev.com/ghpvc/?username=10rishikrishna&style=flat-square&color=00f5ff&labelColor=0d1117&label=Profile+Views)](https://github.com/10rishikrishna)
 
 </div>
 
 ---
 
-## ◈ `whoami`
+## `> whoami`
 
 ```python
 class RishiKrishna:
-    name        = "Rishi Krishna"
-    github      = "github.com/10rishikrishna"
-    college     = "Rajagiri School of Engineering & Technology, Ernakulam"
-    location    = "Kerala, India 🇮🇳"
-    email       = "bss10a04rishi@gmail.com"
-    linkedin    = "linkedin.com/in/rishikrishna10"
-    instagram   = "instagram.com/rish_i.7"
-    orcid       = "orcid.org/0009-0003-2973-0314"
-    repos       = 9
-    stack       = ["C#", ".NET MAUI", "ASP.NET Core 9", "Flutter", "WinForms"]
-    deployed    = "Render (live REST API — Pass-Backend-Server)"
-    achievements= ["Pull Shark 🤠", "Starstruck 🦈", "YOLO 🧃"]
-    philosophy  = "366 commits. Ship it."
+    def __init__(self):
+        self.name       = "Rishi Krishna"
+        self.username   = "10rishikrishna"
+        self.college    = "Rajagiri School of Engineering & Technology, Ernakulam"
+        self.location   = "Ernakulam, Kerala, India 🇮🇳"
+        self.email      = "bss10a04rishi@gmail.com"
+
+        self.domains    = [
+            "Backend Development",
+            "Web Development",
+            "Cybersecurity",
+            "Data Analytics",
+            "🎹 Pianist"
+        ]
+
+        self.github     = { "contributions": 366, "repos": 9, "commit_rate": "97%" }
+
+    def __str__(self):
+        return "// Engineer by day. Pianist by soul. Always shipping."
 ```
 
 ---
 
-## ▸ `gh stats --user 10rishikrishna`
+## `> domains`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=dark&bg_color=060010&border_color=bd00ff&icon_color=00d4ff&title_color=bd00ff&text_color=ffffff" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=10rishikrishna&theme=dark&background=060010&border=bd00ff&ring=00d4ff&fire=ff2079&currStreakLabel=bd00ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff55" height="170"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10rishikrishna&layout=compact&theme=dark&bg_color=060010&border_color=bd00ff&title_color=bd00ff&text_color=ffffff&langs_count=6" height="150"/>
-</div>
-
-| Metric | % |
-|:---|:---:|
-| ⚡ Commits | 97% |
-| 🔀 Pull Requests | 3% |
-| 🔍 Code Review | ~0% |
-| 🐛 Issues | ~0% |
-
----
-
-## ⚙ `cat skills.json`
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-00d4ff?style=for-the-badge&logo=csharp&logoColor=060010)
-![C++](https://img.shields.io/badge/C++-ff2079?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-bd00ff?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ffaa?style=for-the-badge&logo=javascript&logoColor=060010)
-![Python](https://img.shields.io/badge/Python-00d4ff?style=for-the-badge&logo=python&logoColor=060010)
-![SQL](https://img.shields.io/badge/SQL-bd00ff?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Platforms**
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_9-00d4ff?style=for-the-badge&logo=dotnet&logoColor=060010)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-bd00ff?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-ff2079?style=for-the-badge&logo=windows&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-00ffaa?style=for-the-badge&logo=flutter&logoColor=060010)
-![Node.js](https://img.shields.io/badge/Node.js-00d4ff?style=for-the-badge&logo=node.js&logoColor=060010)
-![REST API](https://img.shields.io/badge/REST_APIs-bd00ff?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Render](https://img.shields.io/badge/Render-ff2079?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00d4ff?style=for-the-badge&logo=git&logoColor=060010)
-![GitHub](https://img.shields.io/badge/GitHub-bd00ff?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00ffaa?style=for-the-badge&logo=docker&logoColor=060010)
-![Linux](https://img.shields.io/badge/Linux-ff2079?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-## 📂 `ls 10rishikrishna/`
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🔐 **Entry-Pass-Generator-CIAL** | Desktop app (WinForms) for security officers — photo capture, contractor details, gate access, validity periods | C# · WinForms |
-| ⚡ **Pass-Backend-Server** | Live ASP.NET Core 9 REST API on Render — handles pass submissions, approvals, rejections & digital signatures | C# · ASP.NET Core 9 · Render |
-| 🛡 **Entry-Pass-Authenticator-CIAL** | Security dashboard — real-time approve/reject, live API sync, RSA digital signatures | C# · .NET MAUI · RSA |
-| 🌦 **weather-forecaster** | Flutter app with real-time & forecast weather via OpenWeatherMap API | Flutter · Dart · C++ |
-
----
-
-## 🏆 `gh achievements`
-
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/🤠_PULL_SHARK-Merged_PRs-00d4ff?style=for-the-badge&labelColor=060010&color=00d4ff)
-![Starstruck](https://img.shields.io/badge/🦈_STARSTRUCK-Stars_Earned-bd00ff?style=for-the-badge&labelColor=060010&color=bd00ff)
-![YOLO](https://img.shields.io/badge/🧃_YOLO-Merged_Without_Review-ff2079?style=for-the-badge&labelColor=060010&color=ff2079)
+| 🔵 Backend Dev | 🟣 Web Dev | 🔴 Cybersecurity | 🟢 Data Analytics | ☁️ DevOps | 🎹 Pianist |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| REST APIs & Microservices | React · Tailwind · HTML/CSS | Penetration Testing | Pandas · NumPy | Docker · Kubernetes | Classical · Jazz |
+| ASP.NET Core · FastAPI | JavaScript · CI/CD | OWASP · CTF Challenges | Matplotlib · Jupyter | AWS · Linux · Git | Music Theory |
+| PostgreSQL · Redis · MongoDB | Nginx · Vercel | Kali Linux · Wireshark | SQL Analytics | CI/CD · Nginx | Composition |
+| C# · Node.js · gRPC | REST · GraphQL | Network Security | Dashboards & Viz | RabbitMQ · Docker | Ear Training |
 
 </div>
 
 ---
 
-## 🔗 `./connect.sh`
+## `> tech_stack`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-10rishikrishna-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=060010)](https://github.com/10rishikrishna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishikrishna10-bd00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060010)](https://linkedin.com/in/rishikrishna10)
-[![Email](https://img.shields.io/badge/Email-bss10a04rishi-ff2079?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060010)](mailto:bss10a04rishi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-rish__i.7-00ffaa?style=for-the-badge&logo=instagram&logoColor=060010&labelColor=060010)](https://instagram.com/rish_i.7)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2973--0314-bd00ff?style=for-the-badge&logo=orcid&logoColor=white&labelColor=060010)](https://orcid.org/0009-0003-2973-0314)
+### ⚡ Languages
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00f5ff&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=bf00ff&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff2d78&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff88&labelColor=0d1117)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00f5ff&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=bf00ff&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff2d78&labelColor=0d1117)
+
+### 🔧 Backend & APIs
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=00f5ff&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=bf00ff&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff2d78&labelColor=0d1117)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-0d1117?style=for-the-badge&logo=dotnet&logoColor=00ff88&labelColor=0d1117)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=00f5ff&labelColor=0d1117)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=bf00ff&labelColor=0d1117)
+
+### 🌐 Web & Mobile
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f5ff&labelColor=0d1117)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=bf00ff&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff2d78&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88&labelColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00f5ff&labelColor=0d1117)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=bf00ff&labelColor=0d1117)
+
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00f5ff&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=bf00ff&labelColor=0d1117)
+![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=ff2d78&labelColor=0d1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff88&labelColor=0d1117)
+
+### 📊 Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00f5ff&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=bf00ff&labelColor=0d1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=ff2d78&labelColor=0d1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00ff88&labelColor=0d1117)
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00f5ff&labelColor=0d1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=bf00ff&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff2d78&labelColor=0d1117)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=00ff88&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f5ff&labelColor=0d1117)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=bf00ff&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff2d78&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88&labelColor=0d1117)
+
+### 🎹 Music
+![Piano](https://img.shields.io/badge/Piano-Classical_%26_Jazz-0d1117?style=for-the-badge&logo=musicbrainz&logoColor=ffcc00&labelColor=0d1117)
+![Music Theory](https://img.shields.io/badge/Music_Theory-Composition-0d1117?style=for-the-badge&logo=audacious&logoColor=ffcc00&labelColor=0d1117)
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=bf00ff&text_color=c0d8f0&bg_color=07090f&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10rishikrishna&layout=compact&theme=transparent&hide_border=true&title_color=00f5ff&text_color=c0d8f0&bg_color=07090f&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=10rishikrishna&theme=transparent&hide_border=true&ring=00f5ff&fire=ff2d78&currStreakLabel=bf00ff&sideLabels=c0d8f0&dates=4a6080&currStreakNum=00f5ff&sideNums=c0d8f0" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=10rishikrishna&bg_color=07090f&color=00f5ff&line=bf00ff&point=ff2d78&area=true&area_color=00f5ff20&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `> pinned --projects`
+
+<div align="center">
+
+[![Entry-Pass-Generator-CIAL](https://github-readme-stats.vercel.app/api/pin/?username=10rishikrishna&repo=Entry-Pass-Generator-CIAL&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=bf00ff&text_color=8899aa&bg_color=07090f)](https://github.com/10rishikrishna/Entry-Pass-Generator-CIAL)
+[![Pass-Backend-Server](https://github-readme-stats.vercel.app/api/pin/?username=10rishikrishna&repo=Pass-Backend-Server&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=bf00ff&text_color=8899aa&bg_color=07090f)](https://github.com/10rishikrishna/Pass-Backend-Server)
+
+[![Entry-Pass-Authenticator-CIAL](https://github-readme-stats.vercel.app/api/pin/?username=10rishikrishna&repo=Entry-Pass-Authenticator-CIAL&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=bf00ff&text_color=8899aa&bg_color=07090f)](https://github.com/10rishikrishna/Entry-Pass-Authenticator-CIAL)
+[![weather-forecaster](https://github-readme-stats.vercel.app/api/pin/?username=10rishikrishna&repo=weather-forecaster&theme=transparent&hide_border=true&title_color=00f5ff&icon_color=bf00ff&text_color=8899aa&bg_color=07090f)](https://github.com/10rishikrishna/weather-forecaster)
+
+</div>
+
+---
+
+## `> trophy --collection`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=10rishikrishna&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117)](https://linkedin.com/in/rishikrishna10)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=bf00ff&labelColor=0d1117)](https://instagram.com/rish_i.7)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff2d78&labelColor=0d1117)](mailto:bss10a04rishi@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=00ff88&labelColor=0d1117)](https://orcid.org/0009-0003-2973-0314)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:bd00ff,80:ff2079,100:060010&height=120&section=footer&text=crafted%20with%20%E2%9D%A4%20by%20Rishi%20Krishna&fontSize=14&fontColor=ffffff55&fontAlignY=65" width="100%"/>
+🏫 **Rajagiri School of Engineering & Technology, Ernakulam**
+📍 **Ernakulam, Kerala, India**
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=10rishikrishna&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=VISITORS)
 
 </div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
