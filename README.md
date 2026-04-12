@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- NAME — Courier New style (VT323 is the closest monospace on demolab), hacker green, > prefix, peace emoji -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=52&pause=9999&color=39FF14&center=true&vCenter=true&width=520&height=70&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
+<!-- NAME — Cinzel is classy/elegant, hacker green -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
-<!-- ROLES — each role different color, separate SVG per role stacked -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=28&lines=Backend+Developer" alt="role1"/>
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=BF00FF&center=true&vCenter=true&width=600&height=28&lines=Web+Developer" alt="role2"/>
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&height=28&lines=Cybersecurity+Enthusiast" alt="role3"/>
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=28&lines=Data+Analytics" alt="role4"/>
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%8E%B9+Pianist" alt="role5"/>
+<!-- ROLES — 1 at a time, each a different color cycling through -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&height=32&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist&multiline=false" alt="Roles"/>
 
 <br/>
 
@@ -36,7 +32,7 @@ class RishiKrishna:
                   "Cybersecurity Enthusiast", "Data Analytics", "🎹 Pianist"]
     languages  = ["C#", "Python", "JavaScript", "C++", "Dart", "SQL"]
     github     = {"contributions": 414, "repos": 9, "commit_rate": "97%"}
-    quote      = "Engineer by day. Pianist by soul. Always shipping."
+    quote      = "Don't take life too seriously — you won't make it out alive. 😄"
 ```
 
 ---
@@ -119,12 +115,7 @@ class RishiKrishna:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10rishikrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=10rishikrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=10rishikrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
@@ -148,9 +139,9 @@ class RishiKrishna:
 
 <br/><br/>
 
-*"Engineer by day. Pianist by soul. Always shipping."*
+*"Don't take life too seriously — you won't make it out alive."* 😄
 
 </div>
 
-<!-- BOTTOM WAVE ONLY — dark neon -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39FF14,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<!-- BOTTOM WAVE — taller, hacker green neon -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:39FF14,100:0d1117&height=160&section=footer&animation=fadeIn" width="100%"/>
