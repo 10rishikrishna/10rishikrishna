@@ -1,24 +1,27 @@
 <div align="center">
 
-<!-- NAME — Cinzel is classy/elegant, hacker green -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39FF14,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<!-- NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
-<!-- ROLES — 1 at a time, each a different color cycling through -->
+<!-- ROLES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&height=32&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist&multiline=false" alt="Roles"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/rishikrishna10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/rish_i.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:bss10a04rishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0003-2973-0314"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikrishna10)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rish_i.7)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bss10a04rishi@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2973-0314)
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=39FF14&style=flat"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=39FF14&style=flat)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -115,7 +118,26 @@ class RishiKrishna:
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=10rishikrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=10rishikrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10rishikrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10rishikrishna/10rishikrishna/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10rishikrishna/10rishikrishna/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/10rishikrishna/10rishikrishna/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -129,13 +151,13 @@ class RishiKrishna:
 
 <br/>
 
-<a href="https://linkedin.com/in/rishikrishna10"><img src="https://img.shields.io/badge/LinkedIn-rishikrishna10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishikrishna10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikrishna10)
 &nbsp;
-<a href="https://instagram.com/rish_i.7"><img src="https://img.shields.io/badge/Instagram-rish__i.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+[![Instagram](https://img.shields.io/badge/Instagram-rish__i.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rish_i.7)
 &nbsp;
-<a href="mailto:bss10a04rishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-bss10a04rishi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-bss10a04rishi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bss10a04rishi@gmail.com)
 &nbsp;
-<a href="https://orcid.org/0009-0003-2973-0314"><img src="https://img.shields.io/badge/ORCID-0009--0003--2973--0314-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2973--0314-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2973-0314)
 
 <br/><br/>
 
@@ -143,5 +165,4 @@ class RishiKrishna:
 
 </div>
 
-<!-- BOTTOM WAVE — taller, hacker green neon -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:39FF14,100:0d1117&height=160&section=footer&animation=fadeIn" width="100%"/>
