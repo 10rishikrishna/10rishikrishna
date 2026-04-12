@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,25:0f3057,50:1b4f72,75:0f3057,100:0a192f&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,25:0f3057,50:1b4f72,75:0f3057,100:0a192f&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=4FC3FF&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
-<!-- ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&height=32&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist&multiline=false" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7FDBFF&center=true&vCenter=true&width=600&height=32&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist&multiline=false" alt="Roles"/>
 
-<br/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikrishna10)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rish_i.7)
