@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,50:39FF14,100:2f2f2f&height=120&section=header&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:2f2f2f,100:1c1c1c&height=180&section=header&animation=fadeIn" width="100%"/>
 <!-- NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=44&pause=9999&color=39FF14&center=true&vCenter=true&width=560&height=72&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
