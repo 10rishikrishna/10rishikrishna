@@ -1,19 +1,23 @@
 <div align="center">
 
-<!-- NAME — hacker green, terminal style with peace emoji, no gap after -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=9999&color=39FF14&center=true&vCenter=true&width=520&height=70&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
+<!-- NAME — Courier New style (VT323 is the closest monospace on demolab), hacker green, > prefix, peace emoji -->
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=52&pause=9999&color=39FF14&center=true&vCenter=true&width=520&height=70&lines=%3E+Rishi+Krishna+%E2%9C%8C%EF%B8%8F" alt="Rishi Krishna"/>
 
-<!-- ROLES — cycles, no extra height padding -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=30&lines=Backend+Developer;Web+Developer;Cybersecurity+Enthusiast;Data+Analytics;%F0%9F%8E%B9+Pianist" alt="Roles"/>
+<!-- ROLES — each role different color, separate SVG per role stacked -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=28&lines=Backend+Developer" alt="role1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=BF00FF&center=true&vCenter=true&width=600&height=28&lines=Web+Developer" alt="role2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&height=28&lines=Cybersecurity+Enthusiast" alt="role3"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=28&lines=Data+Analytics" alt="role4"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=28&lines=%F0%9F%8E%B9+Pianist" alt="role5"/>
 
 <br/>
 
-<!-- BADGES — no gap, flows tight -->
 <a href="https://linkedin.com/in/rishikrishna10"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/rish_i.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:bss10a04rishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0003-2973-0314"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 
+<br/>
 <img src="https://komarev.com/ghpvc/?username=10rishikrishna&label=Profile+Views&color=39FF14&style=flat"/>
 
 </div>
@@ -31,7 +35,7 @@ class RishiKrishna:
     roles      = ["Backend Developer", "Web Developer",
                   "Cybersecurity Enthusiast", "Data Analytics", "🎹 Pianist"]
     languages  = ["C#", "Python", "JavaScript", "C++", "Dart", "SQL"]
-    github     = {"contributions": 366, "repos": 9, "commit_rate": "97%"}
+    github     = {"contributions": 414, "repos": 9, "commit_rate": "97%"}
     quote      = "Engineer by day. Pianist by soul. Always shipping."
 ```
 
@@ -115,12 +119,12 @@ class RishiKrishna:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=10rishikrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10rishikrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=10rishikrishna&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=10rishikrishna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 
 </div>
 
@@ -147,3 +151,6 @@ class RishiKrishna:
 *"Engineer by day. Pianist by soul. Always shipping."*
 
 </div>
+
+<!-- BOTTOM WAVE ONLY — dark neon -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39FF14,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
