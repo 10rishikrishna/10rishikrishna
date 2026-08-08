@@ -37,6 +37,7 @@ class RishiKrishna:
     languages  = ["C#", "Python", "JavaScript", "C++", "Dart", "SQL"]
     github     = {"contributions": 414, "repos": 9, "commit_rate": "97%"}
     quote      = "Don't take life too seriously — you won't make it out alive. 😄"
+    portfolio  = https://rishikrishnadev.netlify.app/
 ```
 
 ---
